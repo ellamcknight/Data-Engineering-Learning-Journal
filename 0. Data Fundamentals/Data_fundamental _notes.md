@@ -37,6 +37,14 @@ The specific metrics chosen should align with the organisation's goals, prioriti
 
 
 ## Key Concepts 
+Build relationships
+
+Choose Transparency in algorithms
+
+Celebrate wins
+
+Raise data literacy
+
 
 ## Questions 
 
